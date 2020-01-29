@@ -1,0 +1,24 @@
+.wrapper {
+  transition: all .3s linear;
+  overflow-x: hidden;
+}
+
+.listItem {
+  display: block;
+  height: 3;
+}
+
+.list {
+  display: block;
+  list-style-type: disc;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  -webkit-padding-start: 0;
+}
+
+.p {
+  font-size: 2vw;
+  overflow: hidden;
+}

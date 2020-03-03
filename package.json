@@ -1,5 +1,5 @@
 {
-  "name": "locate-plugin",
+  "name": "cerebro-file-search",
   "version": "0.1.0",
   "dependencies": {
     "cerebro-tools": "^0.1.8",

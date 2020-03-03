@@ -22,6 +22,21 @@ To update the mlocate.db database before first use, run:
 sudo updatedb
 ```
 
+## Installation
+The plugin is avaialable on npm `https://www.npmjs.com/package/cerebro-file-search-locate`
+
+To add plugin
+1. Go to you cerebro folder typically `$XDG_CONFIG_HOME/Cerebro/config.json` or `~/.config/Cerebro/config.json`
+2. `cd ./plugins`
+3. `yarn add cerebro-file-search`
+
+To run locally use
+```bash
+git clone https://github.com/lucky125111/cerebro-file-search.git
+yarn install 
+yarn start
+```
+
 ## Usage
 In Cerebro, type file name or path of path to look for. Currently the file search will show only first 100 results. Clicking the file will reveal it in the folder explorer
 

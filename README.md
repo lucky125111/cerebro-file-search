@@ -23,12 +23,12 @@ sudo updatedb
 ```
 
 ## Installation
-The plugin is avaialable on npm `https://www.npmjs.com/package/cerebro-file-search-locate`
+The plugin is avaialable on [npm](https://www.npmjs.com/package/cerebro-file-search-locate)
 
 To add plugin
 1. Go to you cerebro folder typically `$XDG_CONFIG_HOME/Cerebro/config.json` or `~/.config/Cerebro/config.json`
 2. `cd ./plugins`
-3. `yarn add cerebro-file-search`
+3. `yarn add cerebro-file-search-locate`
 
 To run locally use
 ```bash
